@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"doubly_linked_list":[["impl&lt;T&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/1.76.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"doubly_linked_list/struct.List.html\" title=\"struct doubly_linked_list::List\">List</a>&lt;T&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
